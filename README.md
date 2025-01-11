@@ -43,7 +43,7 @@
 
 This project was developed as part of my learning journey during the Python Full Stack Infosys Springboard Internship 5.0. The internship offered invaluable hands-on experience in full-stack development, enhancing my expertise in Python, Django, and web application architecture.
 
-A heartfelt thank you to Sri Lalitha L for their invaluable mentorship and guidance throughout this project.
+A heartfelt thank you to **Sri Lalitha L** for their invaluable mentorship and guidance throughout this project.
 
 ### Looking Ahead 🌱
 I’m excited to explore more opportunities in the fields of Full Stack Development, API Development, API Testing.
