@@ -11,7 +11,7 @@
 #### 1. Clone the Repository
 
 ```bash
-git clone [text](https://github.com/sundramsharma1/Infosys-Internship.git)
+git clone https://github.com/sundramsharma1/Infosys-Internship.git
 cd Infosys-Internship
 ```
 
