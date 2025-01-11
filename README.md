@@ -29,7 +29,7 @@
 - [View](Documentation.md)
 
 ### API Documentation 
-- [Here](API%20Details.md)
+- [View](API%20Details.md)
 
 ### Technologies Used 
 ##### Backend 
