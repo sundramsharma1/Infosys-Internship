@@ -25,24 +25,24 @@
 - **API Management**: Handle user registration, login, payments, and order management via API.  
 - **Complete Web Flow**: Seamless experience from browsing to order and delivery tracking.
 
-### Installation 💻
+### Installation 
 - [View](Documentation.md)
 
-### API Documentation 📜
+### API Documentation 
 - [Here](API%20Details.md)
 
-### Technologies Used 🔧
-##### Backend ⚙️
+### Technologies Used 
+##### Backend 
 - **Python**: Core programming language for application development.
 - **Django**: Web framework for rapid development and clean design.
 - **Django REST Framework**: Toolkit for building Web APIs.
 - **PostgreSQL**: Open-source relational database system.
 
-##### Frontend 🎨
+##### Frontend 
 - **HTML/CSS**: For structuring and styling web pages.
 - **Streamlit**: Framework used for building the entire web application, including user interfaces
 
-##### APIs and Integrations 🔗
+##### APIs and Integrations 
 - **Google Maps API**: For embedding maps and location services.
 - **Formspree**: API for handling form submissions.
 - **Swagger/OpenAPI**: For API documentation and testing.
@@ -50,16 +50,16 @@
 
 <hr>
 
-### Acknowledgements 🌟
+### Acknowledgements 
 
 This project was developed as part of my learning journey during the Python Full Stack Infosys Springboard Internship 5.0. The internship offered invaluable hands-on experience in full-stack development, enhancing my expertise in Python, Django, and web application architecture.
 
 A heartfelt thank you to **Sri Lalitha L** for their invaluable mentorship and guidance throughout this project.
 
-### Looking Ahead 🌱
+### Looking Ahead 
 I’m excited to explore more opportunities in the fields of Full Stack Development, API Development, API Testing.
 
-### Let’s Connect 🚀
+### Let’s Connect 
 Feel free to discuss ideas, projects, and opportunities in API development, Full Stack Development, or any related topics. I’m always eager to learn and collaborate.
 - 📧 Email: [sundramsharma12244@gmail.com](mailto:sundramsharma12244@gmail.com)
 - 💼 LinkedIn: [Sundram Sharma](https://www.linkedin.com/in/sundram1/)
