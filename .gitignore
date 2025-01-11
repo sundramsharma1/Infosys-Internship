@@ -1,0 +1,44 @@
+# Python
+*.py[cod]
+*.pyo
+__pycache__/
+*.so
+
+# Django
+*.log
+*.pot
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+*.db
+*.mo
+*.pot
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+local_settings.py
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# IDEs and editors
+.vscode/
+.idea/
+*.swp
+*~
+
+# Windows
+Thumbs.db
+ehthumbs.db
+
+# Ignore all files in the cakes folder
+cakes/*
+example.http
