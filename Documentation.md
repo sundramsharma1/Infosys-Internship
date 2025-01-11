@@ -101,3 +101,5 @@ psql -U postgres -h localhost -p 5432 -d target_database < path/to/database_back
 ### License
 
 This project is licensed under the MIT License - see the LICENSE file for details
+
+<h4 align='center'>© 2024 Sundram Sharma</h4>
