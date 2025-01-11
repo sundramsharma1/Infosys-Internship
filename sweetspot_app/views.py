@@ -311,7 +311,7 @@ class OrderViewSet(viewsets.ModelViewSet):
             return Response({"message": "Order not found"}, status=status.HTTP_400_BAD_REQUEST)
         
         try:
-            gmaps=googlemaps.Client(key="AIzaSyAhagodsFfVLkHh952Qc31OyC7wO0DXf7c")
+            gmaps=googlemaps.Client(key="Your-API-Key")
 
             sweetspot_location="Gopal sweets,Kanpur, India"
             delivery_location=order.delivery_address
