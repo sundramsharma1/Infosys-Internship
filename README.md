@@ -1,4 +1,4 @@
-<h2 align="center">SweetSpot API</h2>
+<h2 align="center"> SweetSpot API 🍰 </h2>
 
 <h3 align="center">API Development of Sweet Spot: Delivering Delight to Your Doorstep</h3>
 <div align="center">
