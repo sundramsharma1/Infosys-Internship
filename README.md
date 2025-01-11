@@ -3,6 +3,8 @@
 <h3 align="center">API Development of Sweet Spot: Delivering Delight to Your Doorstep</h3>
 <p align="center">SweetSpot is a Python-powered e-commerce platform designed for ordering and delivering customized cakes. It features online ordering, real-time delivery tracking, and efficient store management, all aimed at providing a seamless user experience while enhancing customer satisfaction and optimizing operations.</p>
 
+### Table of Contents 🗂️
+- [Features](#Features)
 
 ### Features 📌
 - **Authentication**: User can register and login
