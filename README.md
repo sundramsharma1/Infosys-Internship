@@ -15,7 +15,7 @@
 - [Looking Ahead](#looking-ahead)
 - [Let’s Connect](#lets-connect)
 
-### Features 📌
+### Features
 - **Authentication**: User can register and login
 - **Cake Selection**: Browse and customize cakes with design, ingredients, and size options.  
 - **Store Management**: Easily manage multiple stores with updates and additions.  
